@@ -12,3 +12,15 @@
     Node.Js,  Pug,  Babel,  MongoDB
     Framework : Express
 </pre>
+
+# Model
+
+## Student
+
+- name(String)
+- gender(String)
+- school(String)
+- grade(Int)
+- ban(Int)
+- birth(String)
+- hobby(String)
